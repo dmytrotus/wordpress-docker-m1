@@ -1,2 +1,2 @@
 # docker-nginx-php74-mariadb
-This Docker environment Works for laravel project with mac M1
+This Docker environment works for wordpress project with mac M1
